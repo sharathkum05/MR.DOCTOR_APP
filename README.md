@@ -75,6 +75,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📬 Contact
 Sharath Kumar - [sharath88528l@gmail.com](mailto:sharath88528email@gmail.com)
 
-Project Link: [https://github.com/your-username/mr-doctor-app](https://github.com/your-username/mr-doctor-app)
 
  
